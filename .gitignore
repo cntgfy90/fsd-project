@@ -7,4 +7,5 @@ share
 pyvenv.cfg
 data
 converted_data
+runs
 *.pt
